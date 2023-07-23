@@ -86,4 +86,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amitk2108)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/grid-snake-dark.svg)
