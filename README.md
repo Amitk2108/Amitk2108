@@ -41,7 +41,7 @@
 | Design Tools         | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>                                                                                                                                                                   |
 | Learning             | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" />                                                 |
 
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
@@ -54,22 +54,22 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
-| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
-| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
-| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Notes Keeper App | [view](https://notes-keeper-app-i91s.vercel.app/) | - | `React` `JavaScript` `CSS3` `HTML5` |
-| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Color Shade Tool | [view](https://color-darken-tool.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
-| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` |
-| C++ Special Programs | - | [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs) | `C++` |
+| Projects                 |                         Deployed Link                         |                                Repository                                 | Tech Stack & Tools                                                                         |
+| :----------------------- | :-----------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------------------- |
+| Coffee Compass           |   [view](https://coffee-project-anmol-baranwal.vercel.app/)   |         [view](https://github.com/Anmol-Baranwal/Coffee-Compass)          | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3`                                |
+| MongoDB Query Fetcher    |       [view](https://mongodb-query-fetcher.vercel.app/)       | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
+| ToDo List Web App        |         [view](https://todo-list-k7qu.onrender.com/)          |        [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp)         | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap`                                  |
+| BabySteps                |          [view](https://baby-steps-rho.vercel.app/)           |        [view](https://github.com/Anmol-Baranwal/BabySteps-Project)        | `Next.js` `JavaScript` `Postman` `CSS3`                                                    |
+| Client's Portfolio       | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/)  |       [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha)        | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS`                 |
+| Notes Keeper App         |       [view](https://notes-keeper-app-i91s.vercel.app/)       |                                     -                                     | `React` `JavaScript` `CSS3` `HTML5`                                                        |
+| Password Power           | [view](https://password-generator-anmol-baranwal.vercel.app/) |                                     -                                     | `JavaScript` `CSS3` `HTML5`                                                                |
+| Color Shade Tool         |         [view](https://color-darken-tool.vercel.app/)         |                                     -                                     | `JavaScript` `CSS3` `HTML5`                                                                |
+| Conceptual Mini Projects |                               -                               |       [view](https://github.com/Anmol-Baranwal/Conceptual-Projects)       | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS`                             |
+| C++ Special Programs     |                               -                               |      [view](https://github.com/Anmol-Baranwal/CPP-Special-Programs)       | `C++`                                                                                      |
 
 <br>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amitk2108" /></p><br>
 
