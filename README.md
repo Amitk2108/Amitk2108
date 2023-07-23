@@ -81,7 +81,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" /></p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'&theme=tokyonight>](https://github.com/Amitk2108)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Amitk2108)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amitk2108)](https://github.com/ryo-ma/github-profile-trophy)
 
