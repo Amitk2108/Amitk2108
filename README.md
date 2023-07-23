@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://amitpro.netlify.app/)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="300" style="margin-top: 30px"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300"   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React Native**
 
@@ -48,13 +48,22 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact" alt="amitk2108" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amitk2108" /></p>
 
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en" alt="amitk2108" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="amitk2108" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&" alt="amitk2108" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" /></p>
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
