@@ -45,7 +45,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
 <br>
@@ -76,14 +75,12 @@
 
 <img align="center" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amitk2108" /><br>
 
-
 &nbsp;<img align="center" width="600"  src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="amitk2108" /><br>
-
 
 <img align="center" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" />
 
 <hr>
 
-![GitHub metrics](https://metrics.lecoq.io/Amitk2108)  
+![GitHub metrics](https://metrics.lecoq.io/Amitk2108)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amitk2108)](https://github.com/ryo-ma/github-profile-trophy)
