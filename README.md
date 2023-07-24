@@ -38,18 +38,8 @@
 | Hosting              | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>                                                                                                                                                                                                                                    |
 | Design Tools         | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>                                                                                                                                                                                                    |
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
 <br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<hr>
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
@@ -61,6 +51,12 @@
 | Toggl Track Clone                     | [view](https://aesthetic-sundae-0740ce.netlify.app/) |        [view](https://github.com/YashSharma7746/TooglTrack_Clone)         | `JavaScript` `CSS` `HTML`                                                 |
 
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
+
 
 <hr>
 
