@@ -53,12 +53,12 @@
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-| Projects                              |                    Deployed Link                     |                                Repository                                 | Tech Stack & Tools                                                                         |
-| :------------------------------------ | :--------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------------------------- |
-| YouTube Clone                         |        [view](https://amittube.netlify.app/)         |               [view](https://github.com/Amitk2108/amittube)               | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3`                                |
-| Movies and Tv Shows full Info Website |       [view](https://amitmovies.netlify.app/)        |              [view](https://github.com/Amitk2108/movieinfo)               | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
-| Myntra Clone                          |    [view](https://myntraclonemasai.netlify.app/)     | [view](https://github.com/sandeshjadhav5/Myntra_E-Commerce_Website_Clone) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap`                                  |
-| toggl Track Clone                     | [view](https://aesthetic-sundae-0740ce.netlify.app/) |        [view](https://github.com/YashSharma7746/TooglTrack_Clone)         | `Next.js` `JavaScript` `Postman` `CSS3`                                                    |
+| Projects                              |                    Deployed Link                     |                                Repository                                 | Tech Stack & Tools                                                        |
+| :------------------------------------ | :--------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------------ |
+| YouTube Clone                         |        [view](https://amittube.netlify.app/)         |               [view](https://github.com/Amitk2108/amittube)               | `React.js` `JavaScript` `Tailwind CSS` `axios` `react router dom`         |
+| Movies and Tv Shows full Info Website |       [view](https://amitmovies.netlify.app/)        |              [view](https://github.com/Amitk2108/movieinfo)               | `React.js` `Redux Toolkit` `JavaScript` `sass` `axios` `react router dom` |
+| Myntra Clone                          |    [view](https://myntraclonemasai.netlify.app/)     | [view](https://github.com/sandeshjadhav5/Myntra_E-Commerce_Website_Clone) | `JavaScript` `CSS` `HTML` `API`                                           |
+| toggl Track Clone                     | [view](https://aesthetic-sundae-0740ce.netlify.app/) |        [view](https://github.com/YashSharma7746/TooglTrack_Clone)         | `JavaScript` `CSS` `HTML`                                                 |
 
 <br>
 
