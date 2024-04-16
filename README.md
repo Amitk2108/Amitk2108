@@ -71,7 +71,7 @@
 
 
 <a href="https://github.com/Amitk2108/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="Amit's GitHub stats" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="Amit GitHub stats" width="500">
 </a><br>
 
 <br>
