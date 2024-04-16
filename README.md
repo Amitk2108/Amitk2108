@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="Amit's GitHub stats" width="500">
 </a><br>
 
-
+<br>
 
 
 <a href="https://github.com/Amitk2108/">
@@ -81,10 +81,16 @@
 
 
 
-
-
 <br>
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amitk2108" /><br>
+
+
+
+<a href="https://github.com/Amitk2108/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Amit's GitHub stats" width="500">
+</a><br>
+
+
+
 
 <hr>
 
