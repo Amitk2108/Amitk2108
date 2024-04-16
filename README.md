@@ -80,11 +80,6 @@
 <br>
 
 
-
-<br>
-
-
-
 <a href="https://github.com/Amitk2108/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Amit's GitHub stats" width="500">
 </a><br>
