@@ -66,8 +66,13 @@
 
 
 
-<a href="https://github.com/Amitk2108/github-readme-stats">
+<a href="https://github.com/Amitk2108/">
   <img src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="Amit's GitHub stats" width="500">
+</a><br>
+
+
+<a href="https://github.com/Amitk2108/">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="Amit's GitHub stats" width="500">
 </a><br>
 
 <br>
