@@ -63,7 +63,7 @@ https://github-readme-stats.vercel.app/api?username=amitk2108
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitk2108)](https://github.com/Amitk2108/github-readme-stats)
 
 
 <img align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="amitk2108" /><br>
