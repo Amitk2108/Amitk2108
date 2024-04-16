@@ -1,0 +1,17 @@
+name: Update README with GitHub Readme Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      
+      - name: Update README
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" > README.md
+          git add README.md
+          git commit -m "Update README with latest GitHub stats" || echo "No changes to commit"
+          git push
