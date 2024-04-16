@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I am Funny**
 
+  <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="" align="right" width="465" height="365" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/amitk2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amitk2108" height="30" width="40" /></a>
@@ -25,7 +27,7 @@
 <a href="https://linkedin.com/in/amit-ib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-ib" height="30" width="40" /></a>
 </p>
 
-<img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="" align="right" width="465" height="365" />
+
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
