@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="Amit's GitHub stats" width="500">
 </a><br>
 
-<a> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amitk2108&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=500)](https://git.io/streak-stats) </a>
+
 
 
 <a href="https://github.com/Amitk2108/">
@@ -79,11 +79,8 @@
 
 <br>
 
-<a> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight_width=500)](https://git.io/streak-stats)  </a>
 
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" /><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amitk2108&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=500)](https://git.io/streak-stats)<br>
 
 
 <br>
