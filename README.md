@@ -74,6 +74,8 @@
 
 <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" /><br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amitk2108&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&card_width=500)](https://git.io/streak-stats)<br>
+
 
 <br>
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amitk2108" /><br>
