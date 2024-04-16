@@ -63,7 +63,7 @@
 
 <hr>
 
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Amitk2108/github-readme-stats)
+[![Amit's GitHub stats]width="500"(https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Amitk2108/github-readme-stats)
 
 
 <div>align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight"  </div> <br>
