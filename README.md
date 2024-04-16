@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-  <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="" align="right" width="465" height="365" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
