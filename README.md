@@ -63,17 +63,18 @@
 
 <hr>
 
-[![Amit's GitHub stats]width="500"(https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Amitk2108/github-readme-stats)
+
 
 
 <a href="https://github.com/Amitk2108/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="Amit's GitHub stats" width="500">
 </a>
 
-
-align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight"  <br>
 <br>
+
 <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" /><br>
+
+
 <br>
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amitk2108" /><br>
 
