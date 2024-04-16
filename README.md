@@ -66,7 +66,7 @@ https://github-readme-stats.vercel.app/api?username=amitk2108
 [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitk2108)](https://github.com/Amitk2108/github-readme-stats)
 
 
-align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="amitk2108" <br>
+<div>align="center" width="500"  src="https://github-readme-stats.vercel.app/api?username=amitk2108&show_icons=true&locale=en&theme=tokyonight"  </div> <br>
 <br>
 <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="amitk2108" /><br>
 <br>
