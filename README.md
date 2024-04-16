@@ -89,6 +89,11 @@
 </a><br>
 
 
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Amitk2108/)
+[![Amit's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight)](https://github.com/Amitk2108/)
+[![Amit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=amitk2108&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/Amitk2108/)
+
+
 
 
 <hr>
