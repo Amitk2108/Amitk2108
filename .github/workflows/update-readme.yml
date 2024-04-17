@@ -9,6 +9,11 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v2
       
+      - name: Configure Git
+        run: |
+          git config --global user.email "amitcode98@gmail.com"
+          git config --global user.name "amitk2108"
+      
       - name: Update README with GitHub Stats
         run: |
           curl -sL "https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" > README.md
