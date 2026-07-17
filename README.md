@@ -1,18 +1,25 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://amitpro.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amitk2108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🌱 I’m currently learning **React Native**
+- 💻 I’m a **Software Developer** working across the web and mobile stack
 
-- 🤝 I’m looking for help with **MERN Stack Development**
+- ⚛️ I build cross-platform apps with **React Native**
+
+- 🐍 I also work with **Python**
+
+- 🤝 I’m looking to collaborate on **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://amitpro.netlify.app/](https://amitpro.netlify.app/)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development, React Native & Python**
 
-- 📫 How to reach me **amitcoder98gmail.com**
+- 📫 How to reach me **amitcoder98@gmail.com**
 
 - 📄 Know about my experiences [https://amitpro.netlify.app/](https://amitpro.netlify.app/)
 
@@ -33,8 +40,8 @@
 
 | Category             | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Frameworks           | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>                                                                                                                  |
-| Languages            | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                                                                                                                                                                                                                                                                                                                      |
+| Frameworks           | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>                                                                                                                  |
+| Languages            | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                                                                                                                                                                                                                                                                                                                      |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> |
 | Database             | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Services & Tools     | <a href="https://github.com/Amitk2108"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>                                                                                                                                                                                             |
@@ -58,25 +65,49 @@
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+# 📊 GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35">
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Amit's GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Amitk2108&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Amit's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitk2108&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
 
+## 🧬 Detailed Metrics
+
+<p align="center">
+  <img width="98%" src="./github-metrics.svg" alt="Detailed GitHub metrics — isometric calendar, languages, activity & achievements" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=1a1b27&color=ffffff&line=70a5fd&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&hide_title=false&title=Amit's%20Contribution%20Graph" alt="Contribution activity graph" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amitk2108&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=1800" alt="GitHub trophies" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <hr>
-
-<a href="https://github.com/Amitk2108/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&locale=en&theme=tokyonight" alt="Amit GitHub stats" width="500">
-</a><br>
-
-<br>
-
-<a href="https://github.com/Amitk2108/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitk2108&&theme=tokyonight" alt="Amit's GitHub stats" width="500">
-</a><br>
-
-<br>
-
-<hr>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amitk2108)](https://github.com/ryo-ma/github-profile-trophy)
