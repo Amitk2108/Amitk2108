@@ -1,0 +1,47 @@
+name: Readme Cards
+
+on:
+  # Refresh every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Run manually from the Actions tab
+  workflow_dispatch:
+  # Refresh on push to main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Amitk2108&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          # Reuses the PAT you already added; enables private + all-commits counts
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Generate top-languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Amitk2108&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update readme cards" || echo "No changes to commit"
+          git push

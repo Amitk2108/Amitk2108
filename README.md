@@ -68,12 +68,12 @@
 # 📊 GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35">
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amitk2108&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Amit's GitHub stats" />
+  <img width="49%" src="./profile/stats.svg" alt="Amit's GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Amitk2108&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Amit's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitk2108&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img width="40%" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
