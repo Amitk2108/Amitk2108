@@ -68,12 +68,12 @@
 # 📊 GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35">
 
 <p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Amit's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Amitk2108&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Amit's GitHub streak" />
+  <img width="40%" src="./profile/stats.svg" alt="Amit's GitHub stats" />
+  <img width="40%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Amitk2108&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Amit's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="./profile/top-langs.svg" alt="Top languages" />
+  <img width="30%" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
@@ -81,21 +81,13 @@
 ## 🧬 Detailed Metrics
 
 <p align="center">
-  <img width="98%" src="./github-metrics.svg" alt="Detailed GitHub metrics — isometric calendar, languages, activity & achievements" />
+  <img width="55%" src="./github-metrics.svg" alt="Detailed GitHub metrics — isometric calendar, languages & lines of code" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=1a1b27&color=ffffff&line=70a5fd&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&hide_title=false&title=Amit's%20Contribution%20Graph" alt="Contribution activity graph" />
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amitk2108&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=1800" alt="GitHub trophies" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amitk2108&bg_color=1a1b27&color=ffffff&line=70a5fd&point=bf91f3&area_color=1a1b27&area=true&hide_border=true&hide_title=false&title=Amit's%20Contribution%20Graph" alt="Contribution activity graph" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /><br>
@@ -106,7 +98,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake.svg" />
+    <img width="70%" alt="github contribution snake animation" src="https://raw.githubusercontent.com/Amitk2108/Amitk2108/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
