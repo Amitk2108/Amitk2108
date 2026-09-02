@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Amit Kumar&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 7728, Total PRs: 24, Total Issues: 8, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 7728, Total PRs: 24, Total Issues: 8, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >9</text>
+      >7</text>
     </g>
   </g>
     </svg>
