@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Amit Kumar&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 6, Total Commits  : 7728, Total PRs: 24, Total Issues: 8, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  : 7735, Total PRs: 24, Total Issues: 8, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 171.73058468554166;
+        stroke-dashoffset: 171.72962837459977;
       }
     }
   
