@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://amitpro.netlify.app/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://amitpro.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking to collaborate on **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://amitpro.netlify.app/](https://amitpro.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amitpro.vercel.app/](https://amitpro.vercel.app/)
 
 - 💬 Ask me about **Web development, React Native & Python**
 
 - 📫 How to reach me **amitcoder98@gmail.com**
 
-- 📄 Know about my experiences [https://amitpro.netlify.app/](https://amitpro.netlify.app/)
+- 📄 Know about my experiences [https://amitpro.vercel.app/](https://amitpro.vercel.app/)
 
 - ⚡ Fun fact **I am Funny**
 
